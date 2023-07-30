@@ -23,7 +23,7 @@ echo "<h3> 학습 레벨 : " . $user_level . "</h3>";
 <body id="target">
     <a href="./logout.php">로그아웃</a>
     <header>
-        <img src="./img/icon_19.png" alt="공부">
+        <img src="./img/pngwing.com.png" alt="공부" width="200px">
         <h1><a href="http://localhost/webwithphp/javascript/test.php">Study Project</a></h1>
     </header>
 

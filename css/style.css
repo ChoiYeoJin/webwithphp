@@ -37,3 +37,8 @@ article {
 #control {
     float: right;
 }
+
+img{
+    width: 200px;
+    object-fit:cover;
+}
